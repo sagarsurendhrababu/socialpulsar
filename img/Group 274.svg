@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="478.844" height="425.332" viewBox="0 0 478.844 425.332">
+  <g id="Group_274" data-name="Group 274" transform="translate(-730.113 -2782.552)">
+    <path id="Union_4" data-name="Union 4" d="M14.554,44V29.446H0V14.554H14.554V0H29.446V14.554H44V29.446H29.446V44Z" transform="matrix(0.848, -0.53, 0.53, 0.848, 1148.326, 3170.57)" fill="#ffabfc"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M39,78A39.01,39.01,0,0,1,23.819,3.065,39.01,39.01,0,0,1,54.181,74.935,38.757,38.757,0,0,1,39,78Zm0-61A22,22,0,1,0,61,39,22.025,22.025,0,0,0,39,17Z" transform="translate(1089 2801)" fill="#e1abff"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M28.5,0,57,49H0Z" transform="translate(747.673 2948.414) rotate(21)" fill="#ce5bdb" opacity="0.55"/>
+    <line id="Line_16" data-name="Line 16" x1="35" y1="37" transform="translate(765.5 2787.5)" fill="none" stroke="#d4a5df" stroke-linecap="round" stroke-width="7"/>
+  </g>
+</svg>

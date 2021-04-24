@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="165" viewBox="0 0 165 165">
+  <g id="Group_272" data-name="Group 272" transform="translate(-733 -2149)">
+    <g id="Group_63" data-name="Group 63" transform="translate(-11 471)">
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="52.5" cy="52.5" r="52.5" transform="translate(774 1708)" fill="#e2e2e2"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="52.5" cy="52.5" r="52.5" transform="translate(774 1708)" fill="#fff"/>
+    </g>
+    <path id="Icon_material-phonelink-setup" data-name="Icon material-phonelink-setup" d="M17.7,18.75v-1.5l1.65-1.2a.551.551,0,0,0,.15-.45L18,13.05c-.15-.15-.3-.3-.45-.15l-1.95.6a6.08,6.08,0,0,0-1.35-.75l-.3-1.95c0-.15-.15-.3-.45-.3h-3c-.15,0-.3.15-.45.3l-.3,1.95a6.08,6.08,0,0,0-1.35.75l-1.95-.75A.551.551,0,0,0,6,12.9L4.5,15.45c-.15.15,0,.3.15.45L6.3,17.1v1.5L4.65,19.8a1.134,1.134,0,0,0-.15.6L6,22.95c.15.15.3.3.45.15l2.1-.6a6.08,6.08,0,0,0,1.35.75l.3,1.95c-.15.15.15.3.3.3h3c.15,0,.3-.15.45-.3l.3-1.95a6.08,6.08,0,0,0,1.35-.75l1.95.75A.551.551,0,0,0,18,23.1l1.5-2.55c.15-.15,0-.3-.15-.45L17.7,18.75ZM12,21a3,3,0,1,1,3-3A3.009,3.009,0,0,1,12,21ZM28.5,1.5h-15a3.009,3.009,0,0,0-3,3V9h3V6h15V30h-15V27h-3v4.5a3.009,3.009,0,0,0,3,3h15a3.009,3.009,0,0,0,3-3V4.5A3.009,3.009,0,0,0,28.5,1.5Z" transform="translate(794.577 2213.5)" opacity="0.34"/>
+  </g>
+</svg>
